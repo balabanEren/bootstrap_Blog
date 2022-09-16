@@ -1,0 +1,28 @@
+
+.navbar{
+    opacity: 1;
+    border-bottom: 1px solid white;
+}
+.jumbotop{
+    margin-top: 0.65rem;
+}
+
+.givemargin{
+    margin: 1rem;
+}
+
+.contact-bg-img{
+    background-image: url("https://avatars.mds.yandex.net/i?id=0c3b7fa5b34dce177a46dc854c367bf9-5130535-images-thumbs&n=13");
+    background-size: cover;
+    width: auto;
+}
+
+.about-bg-img{
+    background-image: url("https://avatars.mds.yandex.net/i?id=243fb356f50f3b01cc39ddc6e29a563d-5663462-images-thumbs&n=13");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    display: block;
+    width: auto;
+}
+
